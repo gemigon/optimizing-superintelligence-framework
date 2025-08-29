@@ -2,7 +2,7 @@
 
 (human and computer analogs)
 
-!["ASA graphic"] (assets/asa/asa.svg)
+[ASA graphic](assets/asa/asa.svg)
 
 Agentic Systems Architecture: universal meta-framework of autonomous
 agents (real and fictitious).
