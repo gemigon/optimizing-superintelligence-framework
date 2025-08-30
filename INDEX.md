@@ -1,6 +1,6 @@
 ﻿` `Sectional Index
 
-Section 0.  Agentic Systems Architecture
+[Section 0.  Agentic Systems Architecture](Agentic Systems Architecture.pdf)
 
 `	`Meta-architecture of systems involving autonomous agents.
 
@@ -51,6 +51,7 @@ Section 11.  Universal System Pathology
 Section 12.  Universal Metrics for Optimization
 
 `	`Guidelines and metrics for achieving and sustaining optimal outcomes.
+
 
 
 
