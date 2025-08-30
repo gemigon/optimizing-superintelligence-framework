@@ -2,11 +2,11 @@
 
 Section 0.  Agentic Systems Architecture
 
-`	`meta-architecture systems involving autonomous agents.
+`	`Meta-architecture of systems involving autonomous agents.
 
 Section 1.  Universal Laws of Sociodynamics
 
-`	`Fundamental structures and dynamics underlying Human Systems.
+`	`Fundamental structures and dynamics underlying systems of autonomous agents.
 
 Section 2.  Universal Agent Archetypes
 
@@ -18,7 +18,7 @@ Section 3.  Universal Justice
 
 Section 4.  Universal Social Power
 
-`	`The 3 domains of Social Power and their operational characteristics (protocols).
+`	`The 3 domains of Social Power (collective) and their protocols.
 
 Section 5.  Universal Individual Freedoms
 
@@ -51,5 +51,6 @@ Section 11.  Universal System Pathology
 Section 12.  Universal Metrics for Optimization
 
 `	`Guidelines and metrics for achieving and sustaining optimal outcomes.
+
 
 
