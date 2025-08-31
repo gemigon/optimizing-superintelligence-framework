@@ -9,8 +9,8 @@ The project references human systems in order to provide a concrete model for re
 
 The project documentation is divided into specific sections, but all of them are interdependent with each other (unified). The top level design model is the Agentic Systems Architecture (ASA), of which the OSF is the core component (reasoning engine).  
 
-[<img src="graphics/human computer stack.png">]()
+<img src="graphics/human computer stack.png">
 
 To get up to speed quickly on this project, start with the core principles contained in the beginning sections (Universal Agent Archetypes, Universal Laws of Sociodynamics, Universal Justice, Universal Social Power). The founding document (anonymous) for this project is available as a backport reference (The Optopian Strategy) in the docs folder.
 
-Feedback, questions and collaboration can be addressed by contacting the curator (optopian@protonmail.com).
+Collaboration can be directly addressed by contacting the project curator (gemigon at gmx dot com).
