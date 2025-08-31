@@ -1,7 +1,7 @@
 **Agentic Systems Architecture (ASA)**  
 (human and computer analogs)  
 
-<img src="assets/human-computer-analogs.png">
+<img src="assets/human-computer-asa.png">
 
 Agentic Systems Architecture: universal meta-framework of autonomous
 agents (real and fictitious).  
