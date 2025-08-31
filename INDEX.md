@@ -1,7 +1,7 @@
 ﻿` `Module Index
 
 Module00:  Agentic Systems Architecture  
-`	`Meta-architecture of systems involving autonomous agents.  
+`	`Meta-architecture comparing 2 analogous systems involving autonomous agents.  
 Module01:  Universal Laws of Sociodynamics  
 `	`Fundamental structures and dynamics underlying systems of autonomous agents.  
 Module02:  Universal Agent Archetypes  
@@ -26,6 +26,7 @@ Module11:  Universal System Pathology
 `	`Failure modes common to all systems involving autonomous agents.  
 Module12:  Universal Metrics for Optimization  
 `	`Guidelines and metrics for achieving and sustaining optimal outcomes.
+
 
 
 
