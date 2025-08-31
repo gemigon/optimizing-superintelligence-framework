@@ -1,6 +1,8 @@
 **Agentic Systems Architecture (ASA)**  
 (human and computer analogs)  
-<img src="assets/Agentic-Superintelligence-Architecture.png">
+
+<img src="assets/human-computer-analogs.png">
+
 Agentic Systems Architecture: universal meta-framework of autonomous
 agents (real and fictitious).  
 Operational Stacks: levels of functional abstraction (for humans and
