@@ -11,6 +11,6 @@ The project documentation is divided into specific sections, but all of them are
 
 <img src="graphics/human computer stack.png">
 
-To get up to speed quickly on this project, start with the core principles contained in the beginning sections (Universal Agent Archetypes, Universal Laws of Sociodynamics, Universal Justice, Universal Social Power). The founding document (anonymous) for this project is available as a backport reference (The Optopian Strategy) in the docs folder.
+To get up to speed quickly on this project, start with the core principles contained in the beginning sections (Universal Agent Archetypes, Universal Laws of Sociodynamics, Universal Justice, Universal Social Power). The founding document (anonymous) for this project is available as a backport reference (The Optopian Strategy) in the founding-docs folder.
 
 Collaboration can be directly addressed by contacting the project curator (gemigon at gmx dot com).
