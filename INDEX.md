@@ -2,11 +2,11 @@
 
 [Module00](Module00/Agentic-Superintelligence-Architecture.md) Agentic Superintelligence Architecture  
 `	`Meta-architecture comparing 2 analogous systems involving autonomous agents.  
-Module01:  Universal Laws of Sociodynamics  
+[Module01](Module01/Laws-of-Sociodynamics.md) Universal Laws of Sociodynamics  
 `	`Fundamental structures and dynamics underlying systems of autonomous agents.  
-Module02:  Universal Agent Archetypes  
+[Module02](Module02/Agent-Archetypes.md)  Universal Agent Archetypes  
 `	`Complete survey of agents and their strategies (real and fictitious entities).  
-Module03  Universal Justice  
+[Module03](Module03/Justice.md) Universal Justice  
 `	`Comprehensive rationale for optimizing systems.  
 Module04  Universal Social Power  
 `	`The 3 domains of Social Power (collective) and their protocols.  
@@ -26,6 +26,7 @@ Module11:  Universal System Pathology
 `	`Failure modes common to all systems involving autonomous agents.  
 Module12:  Universal Metrics for Optimization  
 `	`Guidelines and metrics for achieving and sustaining optimal outcomes.
+
 
 
 
