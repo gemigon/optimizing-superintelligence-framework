@@ -5,7 +5,7 @@ foundational basis, whether explicit or implicit. Justice itself, and
 the systems of law derived from it, have evolved over the centuries.
 These dynamics and structures produce a unified “Hierarchy of Justice”.
 
-<img src="justice-hierarchy.png">
+<img src="assets/justice-hierarchy.png">
 
 The “Star of Justice” is a useful model that integrates the 5 underlying
 social principles, as well as the 1 existential principle of
@@ -13,11 +13,11 @@ social principles, as well as the 1 existential principle of
 is therefore contingent upon utilizing the most objective (scientific)
 rationale for Justice.
 
-<img src="star-of-justice.png">
+<img src="assets/star-of-justice.png">
 
-<img src="reciprocity.png">
+<img src="assets/reciprocity.png">
 
-<img src="compensation.png">
+<img src="assets/compensation.png">
 
 Luck (Chance, Fate, etc.) continuously effects every element in the
 Chain of Consequences (Intention). Luck sets the limits on everything
@@ -29,11 +29,11 @@ of action in an optimal system. In mutualist relationships, an Entity
 with greater Authority/Accountability automatically incurs a duty of
 Stewardship for those with less (significantly).
 
-<img src="equivalence.png">
+<img src="assets/equivalence.png">
 
-<img src="consent-preconditions.png">
+<img src="assets/consent-preconditions.png">
 
-<img src="consent.png">
+<img src="assets/consent.png">
 
 The Randomness principle of justice is simple and well known, and
 becomes useful in cases when the Intentional Forms are unable to fully
@@ -60,6 +60,6 @@ of resolution can secure optimal outcomes. Avoidance (level 0) of zero
 sum games, to the fullest extent possible, is the top priority for
 preventing conflicts from spontaneously arising.
 
-<img src="conflict-resolution.png">
+<img src="assets/conflict-resolution.png">
 
-<img src="rule-mgmt.png">
+<img src="assets/rule-mgmt.png">
