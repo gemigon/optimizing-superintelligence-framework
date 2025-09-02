@@ -16,7 +16,7 @@ Optimally, a Commons contains necessities. Sharing in a Commons can be
 optimized by implementing an empirical ethic in order to ensure
 efficient and effective operation.
 
-Sharing.png
+<img src="assets/sharing.png">
 
 The precedence numbers represent the priorities for the “right of
 possession”. A higher number is superior to a lower number (5 = highest,
@@ -33,7 +33,7 @@ to possession of “value” not acquired through Production or Exchange.
 Gambling, Asset Gambling, Investment, Speculation, Extortion, etc.).
 Possession, refers to Custody for Use of a Resource.
 
-Transactions.png
+<img src="assets/transactions.png">
 
 In the real system of existence (Cosmos Nullius), everyone owns
 everything (+ form). Or conversely, no one owns anything (- form). It's
@@ -41,7 +41,7 @@ not possible to legitimately cast Cosmos Nullius Resources directly into
 a Resource System other than as a Commons subsystem, without committing
 an “original theft”.
 
-Resource-subsystems.png
+<img src="assets/resource-subsystems.png">
 
 Upon casting (re-imagining) Resources into a Commons
 \[nationalization\], the perpetrator of such an acquisition incurs a
