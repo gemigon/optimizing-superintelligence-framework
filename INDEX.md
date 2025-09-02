@@ -14,11 +14,11 @@
 `	`Definitional characteristics of agent autonomy and collective obligations.  
 [Module06](Module06/Social-Organization.md) Universal Social Organization  
 `	`Dynamics and Structures that constitute optimal collectives.  
-Module07:  Universal Governance  
+[Module07](Module07/Governance.md) Universal Governance  
 `	`Characteristics of optimal governance systems (for all agents).  
-Module08:  Universal Resource Systems  
+[Module08](Module08/Resource-Systems.md) Universal Resource Systems  
 `	`Valuation of objects (real and fictitious) and their optimization.  
-Module09:  Universal Human Motivations  
+[Module09](Module09/Human-Motivation.md) Universal Human Motivation  
 `	`Motivational factors common to all humans and their systems.  
 Module10:  Universal Human Imperative  
 `	`Purpose and meaning essential for the flourishing of humans.  
@@ -26,6 +26,7 @@ Module11:  Universal System Pathology
 `	`Failure modes common to all systems involving autonomous agents.  
 Module12:  Universal Metrics for Optimization  
 `	`Guidelines and metrics for achieving and sustaining optimal outcomes.
+
 
 
 
