@@ -20,12 +20,13 @@
 `	`Valuation of objects (real and fictitious) and their optimization.  
 [Module09](Module09/Human-Motivation.md) Universal Human Motivation  
 `	`Motivational factors common to all humans and their systems.  
-Module10:  Universal Human Imperative  
+[Module10](Module10/Human-Imperative.md) Universal Human Imperative  
 `	`Purpose and meaning essential for the flourishing of humans.  
-Module11:  Universal System Pathology  
+[Module11](Module11/System-Pathology.md) Universal System Pathology  
 `	`Failure modes common to all systems involving autonomous agents.  
-Module12:  Universal Metrics for Optimization  
+[Module12](Module12/Optimization-Metrics.md) Universal Metrics for Optimization  
 `	`Guidelines and metrics for achieving and sustaining optimal outcomes.
+
 
 
 
