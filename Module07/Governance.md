@@ -8,28 +8,21 @@ The purpose of a legitimate governance system is to successfully manage
 the optimum balance between providing Security/Safety while protecting
 Individual Freedoms. \[Security/Freedom dichotomy\].
 
-Governance.png
+<img src="assets/governance.png">
 
 A consequential strategy is necessary for a sustainable community
 (communal system) that supports the governance system.. The 8 essential
-affinities \[and respective context\] that define social bonding in a
+affinities \[and respective context\] that determine social bonding in a
 community (political) are:
 
-Common Language \[interpersonal communications\]
-
-Common Code of Justice \[rules\]
-
-Common Territory \[proximity\]
-
-Common Genetic Lineage \[evolutionary trajectory\]
-
-Common Welfare (Quality of Life) \[sustainability\]
-
-Common Culture (Beliefs and Behaviors) \[limits\]
-
-Common Family Orientation \[natural unit\]
-
-Common Loyalty (Commitment) \[communal preservation\]
+Common Language \[interpersonal communications\]  
+Common Code of Justice \[rules\]  
+Common Territory \[proximity\]  
+Common Genetic Lineage \[evolutionary trajectory\]  
+Common Welfare (Quality of Life) \[sustainability\]  
+Common Culture (Beliefs and Behaviors) \[limits\]  
+Common Family Orientation \[natural unit\]  
+Common Loyalty (Commitment) \[communal preservation\]  
 
 A modern, self-sufficient “Nation” requires a political community of
 more than 200,000 families (natural). A legitimate governance system
@@ -40,4 +33,4 @@ existence through Contract among real entities (humans). All governance
 organizations establish hierarchical internal roles with each specific
 authority and accountability relationship embedded within the structure.
 
-Role-accountability.png
+<img src="assets/role-accountability.png"> 
