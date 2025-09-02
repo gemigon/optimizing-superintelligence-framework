@@ -8,11 +8,11 @@
 `	`Complete survey of agents and their strategies (real and fictitious entities).  
 [Module03](Module03/Justice.md) Universal Justice  
 `	`Comprehensive rationale for optimizing systems.  
-Module04  Universal Social Power  
+[Module04](Module04/Social-Power.md) Universal Social Power  
 `	`The 3 domains of Social Power (collective) and their protocols.  
-Module05:  Universal Individual Freedoms  
+[Module05](Module05/Individual-Freedoms.md) Universal Individual Freedoms  
 `	`Definitional characteristics of agent autonomy and collective obligations.  
-Module06:  Universal Social Organization  
+[Module06](Module06/Social-Organization.md) Universal Social Organization  
 `	`Dynamics and Structures that constitute optimal collectives.  
 Module07:  Universal Governance  
 `	`Characteristics of optimal governance systems (for all agents).  
@@ -26,6 +26,7 @@ Module11:  Universal System Pathology
 `	`Failure modes common to all systems involving autonomous agents.  
 Module12:  Universal Metrics for Optimization  
 `	`Guidelines and metrics for achieving and sustaining optimal outcomes.
+
 
 
 
