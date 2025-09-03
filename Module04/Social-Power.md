@@ -11,10 +11,10 @@ any of the 3 domains (Force, Wealth, Belief). Only true Mutualists (see
 Universal Agent Archetypes) are naturally capable of resisting this form
 of corruption (addiction).
 
-Social-power.png
+<img src="assets/social-power.png">  
 
 Social Power systems require careful management in order to produce
 optimal systemic consequences. A normal (Gaussian) distribution provides
 the metrics for the outcomes of any given strategy.
 
-Power-dist.png
+<img src="assets/power-dist.png">  
