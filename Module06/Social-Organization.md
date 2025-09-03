@@ -4,36 +4,36 @@ Freedom of Assembly naturally produces legitimate organizations
 (congregations, etc.) of people, defined by the following
 characteristics.
 
-Critical-elements.png
+<img src="assets/critical-elements.png">  
 
 Freedom of Assembly produces associations of people through commonality.
 The level of social bonding (affinity) determines communal system
 viability, sustainability and performance.
 
-Social-bonding.png
+<img src="assets/social-bonding.png">  
 
 Every entity (Player) has a consequential relationship with every System
 as detailed in the Entity/System Relationship Spectrum.
 
-Entity-system.png
+<img src="assets/entity-system.png">  
 
 Large systems are simply extensions of the underlying (atomic)
 structures and dynamics.
 
-O2o.png
+<img src="assets/o2o.png">  
 
-m2m.png
+<img src="assets/m2m.png">  
 
-m2op2p.png
+<img src="assets/m2op2p.png">  
 
-m2os2i.png
+<img src="assets/m20s2i.png">  
 
-self-orgnizing.png
+<img src="assets/self-organizing.png">  
 
-organizational-power.png
+<img src="assets/organizational-power.png">  
 
-heterarchy.png
+<img src="assets/heterarchy.png">  
 
-pop-mgmt.png
+<img src="assets/pop-mgmt.png">  
 
-auto-stratification.png
+<img src="assets/auto-stratification.png">  
