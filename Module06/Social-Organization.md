@@ -26,7 +26,7 @@ structures and dynamics.
 
 <img src="assets/m2op2p.png">  
 
-<img src="assets/m20s2i.png">  
+<img src="assets/m2os2i.png">  
 
 <img src="assets/self-organizing.png">  
 
