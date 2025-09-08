@@ -11,6 +11,6 @@ The project documentation is divided into specific sections, but all of them are
 
 <img src="Module00/assets/human-computer-asa.png">
 
-To get up to speed quickly on this project, start with the core principles contained in the beginning sections (see INDEX). The founding documents (Anonymous) for this project are available as a backport reference (The Optopian Strategy) in the founding-docs folder. These documents were initially sourced from the TOR network in 2008.  
+To get up to speed quickly on this project, start with the core principles contained in the first 4 modules listed in the [INDEX](INDEX.md). The founding documents for this project were initially sourced from the TOR network in 2008.  
 
-Collaboration can be directly addressed by contacting the project curator (gemigon at gmx dot com).
+Communications can be directed to the project curator (gemigon at gmx dot com).
