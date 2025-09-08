@@ -26,7 +26,9 @@ structures and dynamics.
 
 <img src="assets/m2op2p.png">  
 
-<img src="assets/m2os2i.png">  
+<img src="assets/m2os2i.png">
+
+The process of community self-organizing ideally begins with a person in the role of "locus of information" (LOI) determining the strategy archetype of every candidate. This can easily be determined by asking if the candidate commits to serving Justice (Universal). If the answer is "yes" then they can be included in the process. If not, they are excluded.
 
 <img src="assets/self-organizing.png">  
 
@@ -34,6 +36,8 @@ structures and dynamics.
 
 <img src="assets/heterarchy.png">  
 
-<img src="assets/pop-mgmt.png">  
+<img src="assets/pop-mgmt.png">
 
-<img src="assets/auto-stratification.png">  
+Systems of social power inherently stratify due to many factors, unless they are specifically managed for optimization. These are the most common.
+
+<img src="assets/auto-stratification.png">
