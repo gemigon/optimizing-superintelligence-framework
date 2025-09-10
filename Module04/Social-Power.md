@@ -13,6 +13,10 @@ of corruption (addiction).
 
 <img src="assets/social-power.png">  
 
+Rather than direct conflict to acquire or maintine Power, some form of Coercion is often committed. In many cases, there are multiple counts of Coercion committed.
+
+<img src="assets/coercion.png">  
+
 Social Power systems require careful management in order to produce
 optimal systemic consequences. A normal (Gaussian) distribution provides
 the metrics for the outcomes of any given strategy.
