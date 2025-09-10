@@ -13,4 +13,3 @@ The project documentation is divided into specific sections, but all of them are
 
 To get up to speed quickly on this project, start with the core principles contained in the first 4 modules listed in the [INDEX](INDEX.md). The founding documents for this project were initially sourced from the TOR network in 2008.  
 
-Communications can be directed to the project curator (gemigon at gmx dot com).
