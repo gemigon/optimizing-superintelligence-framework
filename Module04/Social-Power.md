@@ -13,7 +13,7 @@ of corruption (addiction).
 
 <img src="assets/social-power.png">  
 
-Rather than direct conflict to acquire or maintine Power, some form of Coercion is often committed. In many cases, there are multiple counts of Coercion committed.
+Rather than direct conflict to acquire or maintine Power, some form of Coercion is often committed. In many cases, there are multiple counts of Coercion committed. Coercion, is the use of Social Power threat or temptation to compel another to commit an illegitimate act.
 
 <img src="assets/coercion.png">  
 
