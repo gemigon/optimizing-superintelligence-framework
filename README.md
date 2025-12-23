@@ -9,7 +9,4 @@ This project references human systems in order to provide a concrete model for r
 
 The project documentation is divided into specific sections, but all of them are interdependent with each other (unified). The top level design model is the Agentic Superintelligence Architecture (ASA), of which the OSF is the core component (reasoning engine). Agentic Systems are systems involving autonomous agents.  
 
-<img src="Module00/assets/human-computer-asa.png">
-
 To get up to speed quickly on this project, start with the core principles contained in the first 4 modules listed in the [INDEX](INDEX.md). The founding documents for this project were initially sourced in 2008.  
-
